@@ -111,9 +111,8 @@ If you're still deciding to remain unvaccinated, please consider these informati
   - [Nature: Scientists brace for impact of delta coronavirus impact](https://www.nature.com/articles/d41586-021-01696-3) 
   - [NYT: The Delta Variant: What Scientists Know](https://www.nytimes.com/2021/06/22/health/delta-variant-covid.html)
   - [Center for Infectious Disease Research & Policy: Youth, Delta variant behind UK COVID surge]9https://www.cidrap.umn.edu/news-perspective/2021/06/youth-delta-variant-behind-uk-covid-surge)
-  - [Delta-variant could be to blame for deadly COVID outbreak in Manatee, FL office (40% fatality rate, vaccinated staff unaffected)](https://www.baynews9.com/fl/tampa/news/2021/06/22/delta-variant-could-be-to-blame-for-deadly-covid-outbreak-in-manatee)
+  - [Deadly COVID outbreak in FL office; vaccinated co-worker spared](https://www.washingtonpost.com/health/2021/06/22/florida-unvaccinated-covid-outbreak/)
   - [Unvaccinated Americans at risk of more dangerous variant](https://www.cnn.com/2021/06/21/us/us-coronavirus-monday/index.html)
   - [What fall 2021 will look like for unvaccinated Americans](https://www.healio.com/news/infectious-disease/20210618/what-will-covid19-look-like-in-the-fall-for-unvaccinated-americans)
   - [Virtually all hospitalized COVID patients are unvaccinated](https://www.nbcnews.com/health/health-news/virtually-all-hospitalized-covid-patients-have-one-thing-common-they-n1270482)
   - [Oxford University: Significant loss of brain grey matter in COVID-19 patients, including those with only moderate symptoms](https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1.full.pdf)
-  - [
