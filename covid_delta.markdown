@@ -44,7 +44,7 @@ If it's that simple, why aren't you vaccinated yet?  You may think you don't nee
   1. I'm young (under 80, or under 50, or under 30, or under 18, or under 12) and so COVID isn't a problem for me
   1. Everyone else is vaccinated, so the actual threat from COVID in the US is over
 
-Unfortunately, none of those reasons looks very in light of... 
+Unfortunately, the assumptions that these reason are based on are not safe assumptions. 
   
 ## Mutations & 'Variants of Concern' {#mutations} 
 
