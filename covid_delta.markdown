@@ -6,7 +6,9 @@ permalink: /covid-delta/
 
 # Vaccination & COVID variants
 
-The discussion of COVID, masks, lockdowns, vaccination, etc. has become so wrapped up in politics and disinformation campaigns that it's tough to talk about in person.  I've been keeping this page to document basic facts and logical reasoning around these issues.  If I've given you this link, it's because I care about you and would like you to give me a hearing without getting in to an argument.
+The discussion of COVID, masks, lockdowns, vaccination, etc. has become so wrapped up in politics and disinformation campaigns that it's tough to talk about in person.  I've been keeping this page to document basic facts and logical reasoning around these issues.  If I've given you this link, it's because I care about you and would like you to give me a hearing without getting in to an argument. My hope is that you're making your decision with the best possible information available to you. I want to help make sure that's the case.
+
+At the end of this bit of writing, I've linked a bunch of different news articles and other resources worth perusing.  
 
 ## You Will Get To Meet COVID {#how-will-your-body-learn-to-fight-COVID} 
 
@@ -14,7 +16,7 @@ The COVID virus is essentially endemic at this point: there are too many copies 
 
 So, it will continue to infect people who will then make millions of copies of the virus and breathe it into their surroundings.  They will spread it before they know they have it, so they won't be able to control where they spread it.   
 
-Now that most Americans have had at least one vaccination shot, the virus will actually spread more easily than it has previously.  That's because the various COVID-related lifestyle restrictions are being lifted and people are doing things that they had stopped doing during the various lockdowns: eating in restaurants and bars, going to the mall, going to indoor gyms, flying, etc.  And, because the health risk from COVID is dramatically lower for vaccinated individuals, they are doing all of these things without masks.
+Now that a majority of American adults have had at least one vaccination shot, the virus will actually spread more easily than it has previously.  That's because the various COVID-related lifestyle restrictions are being lifted and people are doing things that they had stopped doing during the various lockdowns: eating in restaurants and bars, going to the mall, going to indoor gyms, flying, etc.  And, because the health risk from COVID is dramatically lower for vaccinated individuals, they are doing all of these things without masks.
 
 For folks who haven't been vaccinated, this is a much more dangerous situation than life under lockdown was: many of the barriers to COVID transmission have been lowered, but unvaccinated individuals don't have the added protection that vaccinated individuals have (more on this here).
 
@@ -102,4 +104,16 @@ Regardless of how one feels about China, US politics, doctors, Western medicine,
   1. Ultimately, if you intend to engage public life, your immune system will have to be trained to protect you against COVID.  Accomplishing this via vaccination (as hundreds of millions of people of all ages have at this point) has been proven to be thousands of times safer ethan accomplishing this by contracting a COVID infection.
 
 I understand you're likely receiving information from many different sources, some claiming 'inside knowledge' of things that are 'really going on' with COVID or the vaccine, etc.  I think it's an interesting data point that over 95% of doctors, who are the individuals with the best understanding of the body, how it responds to vaccines, and how it responds to COVID, [have chosen to be vaccinated themselves](https://www.ama-assn.org/press-center/press-releases/ama-survey-shows-over-96-doctors-fully-vaccinated-against-covid-19) 
- 
+
+In Massachusetts, 96% of adults over 65 have received at least one vaccination shot, and in Virginia 89% of adults over 65 have received at least one vaccination shot. 
+
+If you're still deciding to remain unvaccinated, please consider these information in these recent articles in your decision making:
+  - [Nature: Scientists brace for impact of delta coronavirus impact](https://www.nature.com/articles/d41586-021-01696-3) 
+  - [NYT: The Delta Variant: What Scientists Know](https://www.nytimes.com/2021/06/22/health/delta-variant-covid.html)
+  - [Center for Infectious Disease Research & Policy: Youth, Delta variant behind UK COVID surge]9https://www.cidrap.umn.edu/news-perspective/2021/06/youth-delta-variant-behind-uk-covid-surge)
+  - [Delta-variant could be to blame for deadly COVID outbreak in Manatee, FL office (40% fatality rate, vaccinated staff unaffected)](https://www.baynews9.com/fl/tampa/news/2021/06/22/delta-variant-could-be-to-blame-for-deadly-covid-outbreak-in-manatee)
+  - [Unvaccinated Americans at risk of more dangerous variant](https://www.cnn.com/2021/06/21/us/us-coronavirus-monday/index.html)
+  - [What fall 2021 will look like for unvaccinated Americans](https://www.healio.com/news/infectious-disease/20210618/what-will-covid19-look-like-in-the-fall-for-unvaccinated-americans)
+  - [Virtually all hospitalized COVID patients are unvaccinated](https://www.nbcnews.com/health/health-news/virtually-all-hospitalized-covid-patients-have-one-thing-common-they-n1270482)
+  - [Oxford University: Significant loss of brain grey matter in COVID-19 patients, including those with only moderate symptoms](https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1.full.pdf)
+  - [
