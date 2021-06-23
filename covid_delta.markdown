@@ -85,7 +85,7 @@ In other words **having had COVID earlier in the pandemic does not protect you a
 
 Having said all of this, isn't it really irrelevant because everyone else is getting vaccinated?  Aren't we past the point of rampant community transmission, etc?
 
-Well, no.  In the parts of the US like New England, where there has been a relatively high-level of vaccination (~70% of adults _fully-vaccinated_ as of mid-June 2021) COVID cases have declined by over 50% over the past 14 days.  In many less well-vaccinated state, the number of cases is on the rise (+68% over the last two weeks in OK, +40% in Missouri and Arkansas, etc.)  
+Well, no.  In the parts of the US like New England, where there has been a relatively high-level of vaccination (~70% of adults _fully-vaccinated_ as of mid-June 2021) COVID cases have declined by over 50% over the past 14 days.  In many less well-vaccinated states, the number of cases is on the rise (+68% over the last two weeks in OK, +40% in Missouri and Arkansas, etc.)  
 
 There are two finer points to make here as well: 
   1. State-level figures obscure the general trend that wherever there are communities with low vaccination rates, COVID continues to spread
