@@ -5,11 +5,10 @@
 layout: default
 ---
 
-# Test Article 
+# You'll Need A Link For That
 
-This is an article published in the root folder as index.markdown.  Is there anything special about the index file?  Who knows
+I use this website to publish material that I share with individuals using a direct link.  This site's content isn't indexed on any 'main' or 'home' page for browsing.  
 
-## Sub-heading Title
-
-Blippity blah
+Thanks! 
+Justin
 
