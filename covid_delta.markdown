@@ -107,6 +107,10 @@ I understand you're likely receiving information from many different sources, so
 
 In Massachusetts, 96% of adults over 65 have received at least one vaccination shot, and in Virginia 89% of adults over 65 have received at least one vaccination shot. 
 
+Perhaps being 'against the vaccine' is an important badge of honor in some community that you're apart of.  You don't have to advertise the fact that you're vaccinated.  You can keep it to yourself.
+
+One final point.  Single-shots of the Pfizer and Moderna vaccines have been shown to only be ~35% effective against new variants like the Delta variant.  You have to have both shots for the vaccine to provide meaningful protection.  Currently, these shots have to be spaced out by a month.  Additionally, your second shot won't provide full protection until two weeks after you receive it.  So, **once you decide to become vaccinated, it takes six weeks before you are fully protected**.  Getting vaccinated _now_ is the best, lowest risk way to prevent COVID from causing serious health issues or death.
+ 
 If you're still deciding to remain unvaccinated, please consider these information in these recent articles in your decision making:
   - [Nature: Scientists brace for impact of delta coronavirus impact](https://www.nature.com/articles/d41586-021-01696-3) 
   - [NYT: The Delta Variant: What Scientists Know](https://www.nytimes.com/2021/06/22/health/delta-variant-covid.html)
