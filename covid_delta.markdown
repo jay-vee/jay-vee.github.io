@@ -105,16 +105,16 @@ Regardless of how one feels about China, US politics, doctors, Western medicine,
 
 I understand you're likely receiving information from many different sources, some claiming 'inside knowledge' of things that are 'really going on' with COVID or the vaccine, etc.  I think it's an interesting data point that over 95% of doctors, who are the individuals with the best understanding of the body, how it responds to vaccines, and how it responds to COVID, [have chosen to be vaccinated themselves](https://www.ama-assn.org/press-center/press-releases/ama-survey-shows-over-96-doctors-fully-vaccinated-against-covid-19) 
 
-In Massachusetts, 96% of adults over 65 have received at least one vaccination shot, and in Virginia 89% of adults over 65 have received at least one vaccination shot. 
+There is an enormous body of knowledge about the effects of the vaccine now, as a massive number of individuals have been vaccinated.  In Massachusetts, 96% of adults over 65 have received at least one vaccination shot, and in Virginia 89% of adults over 65 have received at least one vaccination shot. 
 
-Perhaps being 'against the vaccine' is an important badge of honor in some community that you're apart of.  You don't have to advertise the fact that you're vaccinated.  You can keep it to yourself.
+Culturally, it's possible that being 'against the vaccine' is an important badge of honor in some community that you're apart of.  The great thing about being vaccinated is: you don't have to advertise the fact that you're vaccinated.  You can keep it to yourself. 
 
 One final point.  Single-shots of the Pfizer and Moderna vaccines have been shown to only be ~35% effective against new variants like the Delta variant.  You have to have both shots for the vaccine to provide meaningful protection.  Currently, these shots have to be spaced out by a month.  Additionally, your second shot won't provide full protection until two weeks after you receive it.  So, **once you decide to become vaccinated, it takes six weeks before you are fully protected**.  Getting vaccinated _now_ is the best, lowest risk way to prevent COVID from causing serious health issues or death.
  
 If you're still deciding to remain unvaccinated, please consider these information in these recent articles in your decision making:
   - [Nature: Scientists brace for impact of delta coronavirus impact](https://www.nature.com/articles/d41586-021-01696-3) 
   - [NYT: The Delta Variant: What Scientists Know](https://www.nytimes.com/2021/06/22/health/delta-variant-covid.html)
-  - [Center for Infectious Disease Research & Policy: Youth, Delta variant behind UK COVID surge]9https://www.cidrap.umn.edu/news-perspective/2021/06/youth-delta-variant-behind-uk-covid-surge)
+  - [Center for Infectious Disease Research & Policy: Youth, Delta variant behind UK COVID surge](https://www.cidrap.umn.edu/news-perspective/2021/06/youth-delta-variant-behind-uk-covid-surge)
   - [Deadly COVID outbreak in FL office; vaccinated co-worker spared](https://www.washingtonpost.com/health/2021/06/22/florida-unvaccinated-covid-outbreak/)
   - [Unvaccinated Americans at risk of more dangerous variant](https://www.cnn.com/2021/06/21/us/us-coronavirus-monday/index.html)
   - [What fall 2021 will look like for unvaccinated Americans](https://www.healio.com/news/infectious-disease/20210618/what-will-covid19-look-like-in-the-fall-for-unvaccinated-americans)
