@@ -14,8 +14,24 @@ Now that most Americans have had at least one vaccination shot, the virus will a
 
 For folks who haven't been vaccinated, this is a much more dangerous situation than life under lockdown: many of the barriers to COVID transmission have been lowered, but unvaccinated individuals don't have the same protection as vaccinated individuals.
 
-Ultimately, this means: you are going to come into contact with COVID.  Your body will have to learn how to fight it.  You can have the vaccine teach your body how to fight it without actually becoming infected, or you can have COVID teach your body how to fight it by becoming infected.  While some individuals have experienced side effects from the vaccine, they are nothing in comparison to the 'side effects' that come with an actual COVID infection.  
+These are simple facts that have nothing to do with politics, personal preference or worldview, etc. 
 
+Ultimately, this situation means that *you are going to come into contact with COVID eventually*.  When you do, your body will either succeed in fighting it, or you will die.
+
+So, your body will have to learn how to fight it.  
+
+There are two ways this can happen: 
+  1. You can have the vaccine teach your body how to fight it without actually becoming infected. 
+  1. You can have COVID teach your body how to fight it by becoming infected.  
+
+Either way, you're going to experience symptoms and side-effects while your immune system activates.  
+
+Intuitively, it would seem like it would be better to not have to manage these symptoms and side-effects while COVID is running rampant in your system, potentially causing life-threatining damage. Luckily, we don't have to rely on intuition: we have vaccinated hundreds of millions of people with one or two shots of a COVID vaccine at this point.  The resulting data is clear: serious illness or death is *thousands of times more likely from COVID infection than from being vaccinated*. 
+
+So, you can do this the relatively safe, controlled way.  Or you can do it the way that has been demonstrated to be thousands of times more risky.  Remember: the risk we're talking about here is death or serious lasting illness.
+
+But that's not all ...
+  
 ## Mutation / Variation
 
 Every time the virus duplicates itself, there's a chance of a duplication error- a mutation.  As millions of people are infected, trillions of copies are made.  The sheer volume of copies means that it's likely that some of these random errors make the virus better at spreading.  For example, a mutation may make allow the virus to evade the immune system better, or bind more easily to receptors in the body, creating more copies of itself per infection.
