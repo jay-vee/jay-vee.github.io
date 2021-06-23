@@ -18,7 +18,7 @@ So, it will continue to infect people who will then make millions of copies of t
 
 Now that a majority of American adults have had at least one vaccination shot, the virus will actually spread more easily than it has previously.  That's because the various COVID-related lifestyle restrictions are being lifted and people are doing things that they had stopped doing during the various lockdowns: eating in restaurants and bars, going to the mall, going to indoor gyms, flying, etc.  And, because the health risk from COVID is dramatically lower for vaccinated individuals, they are doing all of these things without masks.
 
-For folks who haven't been vaccinated, this is a much more dangerous situation than life under lockdown was: many of the barriers to COVID transmission have been lowered, but unvaccinated individuals don't have the added protection that vaccinated individuals have (more on this here).
+For folks who haven't been vaccinated, this is a much more dangerous situation than life under lockdown was: many of the barriers to COVID transmission have been lowered, but unvaccinated individuals don't have the added protection that vaccinated individuals have.
 
 _These are simple facts that have nothing to do with politics, personal preference or worldview, etc._ 
 
