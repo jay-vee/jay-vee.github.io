@@ -8,7 +8,7 @@ permalink: /covid-delta/
 
 The discussion of COVID, masks, lockdowns, vaccination, etc. has become so wrapped up in politics and disinformation campaigns that it's tough to talk about in person.  I've been keeping this page to document basic facts and logical reasoning around these issues.  If I've given you this link, it's because I care about you and would like you to give me a hearing without getting in to an argument.
 
-## You Will Get To Meet COVID 
+## You Will Get To Meet COVID {#how-will-your-body-learn-to-fight-COVID} 
 
 The COVID virus is essentially endemic at this point: there are too many copies in too many places to expect that it will be eradicated any time soon.
 
@@ -18,7 +18,7 @@ Now that most Americans have had at least one vaccination shot, the virus will a
 
 For folks who haven't been vaccinated, this is a much more dangerous situation than life under lockdown was: many of the barriers to COVID transmission have been lowered, but unvaccinated individuals don't have the added protection that vaccinated individuals have (more on this here).
 
-These are simple facts that have nothing to do with politics, personal preference or worldview, etc. 
+_These are simple facts that have nothing to do with politics, personal preference or worldview, etc._ 
 
 Ultimately, this situation means that **you are going to come into contact with COVID eventually**.  When you do, your body will either succeed in fighting it, or you will die.
 
@@ -30,11 +30,11 @@ There are two ways this can happen:
 
 Either way, you're going to experience symptoms and side-effects while your immune system activates.  
 
-Intuitively, it seems like it would be better to not have to manage these symptoms and side-effects while COVID is running rampant in your system (potentially causing life-threatining damage). 
+Intuitively, it seems like it would be better to not have to manage these symptoms and side-effects while COVID is running rampant in your system (potentially causing life-threatining damage).  If your body can learn to identify and destroy the virus before it establishes itself and begins making millions of copies to circulate through your body and wreak unknown havoc, it seems like that would be a good thing. 
 
 Luckily, we don't have to rely on intuition: hundreds of millions of people have been administered one or two shots of a COVID vaccine at this point.  The resulting data is clear: serious illness or death is **thousands of times more likely from COVID infection than from being vaccinated**.  One can argue the finer points of how injuries/deaths from COVID are counted vs. incidents resulting from vaccination are counted, but the relative risk remains massively tilted in favor of vaccination.  
 
-So, you can do this the relatively safe, controlled way.  Or you can do it the way that has been demonstrated to be thousands of times more risky.  Remember: the risk we're talking about here is death or serious lasting illness.
+So, you have an inevitable encounter with COVID coming.  You get to choose whether to do it the relatively safe, controlled way, or you can do it the way that has been demonstrated to be thousands of times more risky.  Remember: the risk we're talking about here is death or serious lasting illness.
 
 If it's that simple, why aren't you vaccinated yet?  You may think you don't need to take vaccination seriously for of one of these reasons: 
   1. I'm pretty sure I had COVID in 2020, so I'm all set
@@ -44,7 +44,7 @@ If it's that simple, why aren't you vaccinated yet?  You may think you don't nee
 
 Unfortunately, none of those reasons looks very in light of... 
   
-## Mutations & 'Variants of Concern' 
+## Mutations & 'Variants of Concern' {#mutations} 
 
 Every time the virus duplicates itself, there's a chance of a duplication error- a mutation.  As millions of people are infected, trillions of copies of the virus are made.  The sheer volume of copies means that it's likely that some of these random errors make the virus better at spreading.  For example, a mutation may make allow the virus to evade the immune system better, or bind more easily to receptors in the body, creating more copies of itself per infection.
 
@@ -52,7 +52,7 @@ When a mutation is so successful that it starts to crowd out existing versions o
  
 The problem with emerging variants is that their success against previous variants is based in the fact that they are more effective at spreading than the previous variants.  This is worth repeating: **the new variants are more contagious than the COVID we faced in 2020 and earlier this year**.
 
-## Delta ('Indian') Variant
+## Delta ('Indian') Variant {#delta-variant}
 
 The Delta variant, which was first noticed in India, started showing up in US test results in late-March.  It only accounted for 1.3% of US cases in early May, but grew to 9.5% of US cases earlier this month.  Now it's close to 25% of US cases. 
 
@@ -60,23 +60,46 @@ This quick growth curve is because this variant is 50% more contagious than the 
 
 In fact, there are a number of documented cases of 'glancing' transmission of the Delta variant.  In Sydney, Australia, where a new outbreak of the Delta variant has the city going back into lockdown-like restrictions (as of late-June 2021), public health officials have documented the spread of the virus through a shopping center where people caught the virus simply by walking by the originally infected person.  **This variant is a highly contagious airborne virus** that won't be contained by simply by routinely disinfecting surfaces, washing hands, and trying to keep people 6ft apart.  
  
-It is more contagious, because it's more effective at copying itself in the body per unit of time and it it's more effective at remaining active in the body.  This means people that contract the Delta variant tend to experience a much higher viral load than people who contracted the original virus.  This makes this virus more dangerous for the people who catch it: more people are going to the hospital with this variant and more people are dying from it.
+It is more contagious, because it's more effective at copying itself in the body per unit of time and it it's more effective at remaining active in the body.  This means people that contract the Delta variant tend to experience a much higher viral load than people who contracted the original virus.  This makes this virus more dangerous for the people who catch it: more people are going to the hospital with this variant and more people are dying from it.  This also makes this virus more dangerous for younger people who weren't as affected by the original COVID.
 
-## Vaccine Effectivity
+So, you may have successfully avoided COVID so far but the 'new COVID' (the one spreading throughout the US as of mid-2021) is:
+  1. Much more contagious
+  1. More dangerous if you catch it
+  1. More dangerous for younger individuals
 
+## Vaccine Effectivity {#vaccine-effectivity}
 
-## Increasing Spread in Non-Vaccinated Areas
+If you've received both shots of a two-shot vaccine in the US, you have a high level of protection against all forms of COVID seen so far, including the new variants.  Small studies have shown that after the first dose, the Pfizer vaccine is ~30% effective against the Delta variant, but >85% effective after the second dose.  
 
+The vaccines aren't perfect: 85% is less than 100%.  But even in the case of 'breakthrough' infection, the vaccines are highly protective: the symptoms and side-effects experienced are dramatically less severe in these cases.  
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Additionally, a number of studies show that the immune response from vaccinated individuals provides more protection than the immune response from previously infected individuals: getting vaccinated boosts the protection that surviving an initial infection provides.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+There are many, many documented cases of 'repeat' COVID infections, and this is much more likely to occur when a previously infected person is exposed to a new variant.  These 'repeat' infections tend to have more severe side-effects than the initial infection with worse outcomes.  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In other words **having had COVID earlier in the pandemic does not protect you as well against the current variants as the vaccine does and sets you up for a more severe repeat case**.
+  
+## Increasing Spread in Non-Vaccinated Areas {#recent-spread-among-nonvaccinated}
 
+Having said all of this, isn't it really irrelevant because everyone else is getting vaccinated?  Aren't we past the point of rampant community transmission, etc?
 
-[jekyll-organization]: https://github.com/jekyll
+Well, no.  In the parts of the US like New England, where there has been a relatively high-level of vaccination (~70% of adults _fully-vaccinated_ as of mid-June 2021) COVID cases have declined by over 50% over the past 14 days.  In many less well-vaccinated state, the number of cases is on the rise (+68% over the last two weeks in OK, +40% in Missouri and Arkansas, etc.)  
+
+There are two finer points to make here as well: 
+  1. State-level figures obscure the general trend that wherever there are communities with low vaccination rates, COVID continues to spread
+  1. Even in states with relatively high vaccination rates, the percentage of children vaccinated is much lower.
+
+This means that if you are unvaccinated, any time you spend in pockets of other unvaccinated people is still risky; more risky than before given the nature of the new variants.  And, groups of children are likely to be groups of unvaccinated people.  Given the increased risk the new variants pose to younger individuals, the risk profile for an unvaccinated person in a school setting is very different now than it was previously.
+
+## In Conclusion
+
+Regardless of how one feels about China, US politics, doctors, Western medicine, 'big pharma', etc., the following points are true:
+
+  1. The variant of COVID circulating in the US now is more contagious and more dangerous than the ones we've previously experienced. It affects (and is more easily spread by) younger individuals than previous variants.
+  1. Vaccination still gives good protection against this variant and so we are seeing the precautions and restrictions that were in place being lifted, making public life more dangerous for non-vaccinated individuals.
+  1. Having previously had COVID does not offer the same level of protection as the vaccine, and places you at greater risk if you do get re-infected as re-infections tend to be more severe and have worse outcomes.
+  1. Pockets of non-vaccinated individuals, and locations where children gather (like schools) are areas where the risk of COVID transmission is high, even now that COVID cases are generally declining in many states due to the vaccination effort.
+  1. Ultimately, if you intend to engage public life, your immune system will have to be trained to protect you against COVID.  Accomplishing this via vaccination (as hundreds of millions of people of all ages have at this point) has been proven to be thousands of times safer ethan accomplishing this by contracting a COVID infection.
+
+I understand you're likely receiving information from many different sources, some claiming 'inside knowledge' of things that are 'really going on' with COVID or the vaccine, etc.  I think it's an interesting data point that over 95% of doctors, who are the individuals with the best understanding of the body, how it responds to vaccines, and how it responds to COVID, [have chosen to be vaccinated themselves](https://www.ama-assn.org/press-center/press-releases/ama-survey-shows-over-96-doctors-fully-vaccinated-against-covid-19) 
+ 
